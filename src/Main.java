@@ -8,7 +8,7 @@ public class Main {
         bag.add("Steven");
         
         // Print bag items
-        System.out.print("People list: ");
+        System.out.println("People list: ");
 
         // Iterate over people
         for(String item: bag) {
